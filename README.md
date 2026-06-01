@@ -1,4 +1,9 @@
 # 📊 Pharmaceutical Sales Interactive Dashboard
+Pharmaceutical Sales Interactive Dashboard built with Python, Pandas, and Plotly. 
+This project analyzes sales data across brands, districts, and customer segments 
+in the UAE market. The dashboard includes weekly sales trends, top brand performance, 
+regional distribution, and quantity analysis — designed to support data-driven 
+decision making in pharmaceutical sales.
 
 ## 📸 Dashboard Preview
 ![Dashboard](dashboard_screenshot.png)
